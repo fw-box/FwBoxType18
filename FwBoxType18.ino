@@ -14,7 +14,7 @@
 
 
 #define DEVICE_TYPE 18
-#define FIRMWARE_VERSION "1.1.1"
+#define FIRMWARE_VERSION "1.1.2"
 
 #define PIN_LED 22 // TTGO T7 Mini32
 //#define PIN_LED 2 // AI-Thinker NodeMCU-32S
